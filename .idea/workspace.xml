@@ -9,7 +9,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Added Phone intent">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,48 +174,72 @@
       <option name="project" value="LOCAL" />
       <updated>1601057981151</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added createMap intent">
+      <created>1601058251946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601058251946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added Override methods" />
     <MESSAGE value="Added createMap intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added createMap intent" />
+    <MESSAGE value="Added Phone intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Phone intent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1601056823395">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601056823395" />
-    <state x="295" y="6" key="CommitChangelistDialog2" timestamp="1601058043037">
+    <state x="295" y="6" key="CommitChangelistDialog2" timestamp="1601061769910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="295" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601058043037" />
-    <state width="1491" height="260" key="GridCell.Tab.0.bottom" timestamp="1601058166977">
+    <state x="295" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601061769910" />
+    <state width="1491" height="260" key="GridCell.Tab.0.bottom" timestamp="1601061864742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601058166977" />
-    <state width="1491" height="260" key="GridCell.Tab.0.center" timestamp="1601058166977">
+    <state width="1491" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601061864742" />
+    <state width="1491" height="260" key="GridCell.Tab.0.center" timestamp="1601061864742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601058166977" />
-    <state width="1491" height="260" key="GridCell.Tab.0.left" timestamp="1601058166977">
+    <state width="1491" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601061864742" />
+    <state width="1491" height="260" key="GridCell.Tab.0.left" timestamp="1601061864742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601058166977" />
-    <state width="1491" height="260" key="GridCell.Tab.0.right" timestamp="1601058166977">
+    <state width="1491" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601061864742" />
+    <state width="1491" height="260" key="GridCell.Tab.0.right" timestamp="1601061864742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601058166977" />
+    <state width="1491" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601061864742" />
+    <state width="1491" height="260" key="GridCell.Tab.1.bottom" timestamp="1601061864461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601061864461" />
+    <state width="1491" height="260" key="GridCell.Tab.1.center" timestamp="1601061864461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601061864461" />
+    <state width="1491" height="260" key="GridCell.Tab.1.left" timestamp="1601061864461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601061864461" />
+    <state width="1491" height="260" key="GridCell.Tab.1.right" timestamp="1601061864461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601061864461" />
     <state x="277" y="54" key="SettingsEditor" timestamp="1601055873243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601055873243" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601057212071">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601058291437">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601057212071" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601058291437" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601056271081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
